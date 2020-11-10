@@ -1,0 +1,3 @@
+ChromeDriver 86.0.4240.22
+
+gecko 0.26.0

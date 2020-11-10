@@ -1,0 +1,10 @@
+trendyol\web\conf\Driver$1.class
+trendyol\web\pages\ButikDetailsPage.class
+trendyol\web\conf\BrowserTypeEnum.class
+trendyol\web\pages\PageObject.class
+trendyol\web\conf\Driver.class
+trendyol\web\pages\BasketPage.class
+trendyol\web\pages\LoginPage.class
+trendyol\web\tests\CheckBoutiquesTest.class
+trendyol\web\pages\ProductDetailsPage.class
+trendyol\web\pages\HomePage.class
